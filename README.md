@@ -13,7 +13,7 @@ It enables HR teams and management to:
 
 ## 📺 Project Dashboard
 ![HR](https://github.com/HafiHaroon/HR-Attrition/blob/main/HR.png)
-
+![HrSale](https://github.com/HafiHaroon/HR-Attrition/blob/main/HrSale.PNG)
 ---
 
 ## 📈 Key Insights & KPIs  
