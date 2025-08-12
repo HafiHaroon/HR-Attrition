@@ -12,7 +12,7 @@ It enables HR teams and management to:
 ---
 
 ## 📺 Project Dashboard
-[![Watch the video](https://img.shields.io/badge/YouTube-Watch%20Now-red?logo=youtube)](https://www.youtube.com/watch?v=j4xlVLgsmNQ&t=2288s)
+![HR](https://github.com/HafiHaroon/HR-Attrition/blob/main/HR.png)
 
 ---
 
