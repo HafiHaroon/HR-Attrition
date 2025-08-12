@@ -65,7 +65,9 @@ It enables HR teams and management to:
 - **Excel/CSV** – Dataset source  
 
 ---
-
+# Research and Development
+![RD](https://github.com/HafiHaroon/HR-Attrition/blob/main/RD.PNG)
+---
 ## 📧 Contact  
 📩 **Email:** hafizharoonirshad@gmail.com  
 🔗 **LinkedIn:** [Haroon Irshad](https://www.linkedin.com/in/haroon-irshad-0793261a6/)
