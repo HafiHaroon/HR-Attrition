@@ -55,7 +55,9 @@ It enables HR teams and management to:
 4. Sales Representative – 33  
 
 ---
-
+# Human Resources
+![HrFilter](https://github.com/HafiHaroon/HR-Attrition/blob/main/HrFilter.PNG)
+---
 ## 🛠 Tools & Technologies  
 - **Power BI** – Data modeling & dashboard design  
 - **Power Query** – Data cleaning & transformation  
